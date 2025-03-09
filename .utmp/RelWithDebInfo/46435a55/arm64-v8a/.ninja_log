@@ -1,0 +1,23 @@
+# ninja log v5
+2	5317	7632487131467178	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	34ea6f3bc62a41b9
+270	1345	7632487090819438	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	1ac00f20fe7d820a
+149	4772	7632487125814055	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	d548372bfa6815e1
+257	4515	7632487122916003	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	7db90f572d2056a7
+1413	3454	7632487111438449	D:/projects/Unity/Pendulum game/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/46435a55/obj/arm64-v8a/libswappywrapper.so	f6f9557e7f196d89
+245	4622	7632487124414961	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	ada478a73891d8bf
+196	4463	7632487122436426	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	bcfcba2cb4c99e19
+234	4478	7632487121921957	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	982f3b8cf03a62b5
+223	4524	7632487123110693	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	4be435602b25020
+212	5150	7632487129699426	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	3b195d3a04ecc8a4
+5318	5536	7632487133650545	D:/projects/Unity/Pendulum game/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/46435a55/obj/arm64-v8a/libgame.so	3ad47a6aa0e5af26
+65	862	7632536557036716	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	1ac00f20fe7d820a
+863	1638	7632536565106773	D:/projects/Unity/Pendulum game/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/46435a55/obj/arm64-v8a/libswappywrapper.so	f6f9557e7f196d89
+43	2689	7632536575273901	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	982f3b8cf03a62b5
+16	2714	7632536575634323	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	bcfcba2cb4c99e19
+49	2735	7632536575563731	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	7db90f572d2056a7
+22	2854	7632536577136900	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	4be435602b25020
+58	2887	7632536577442732	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	ada478a73891d8bf
+10	3031	7632536578948920	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	d548372bfa6815e1
+36	3237	7632536581053124	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	3b195d3a04ecc8a4
+29	3392	7632536582561336	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	34ea6f3bc62a41b9
+3393	3562	7632536584336516	D:/projects/Unity/Pendulum game/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/46435a55/obj/arm64-v8a/libgame.so	3ad47a6aa0e5af26
